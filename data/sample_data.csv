@@ -1,0 +1,11 @@
+order_id,order_date,customer_code,service_type,item_type,quantity,unit_price_rwf,line_total_rwf,payment_method,payment_status,order_status,pickup_date
+O0001,2026-10-05,C001,Wash+Iron,Shirt,4,500,2000,Mobile money,Paid,Collected,2026-10-07
+O0001,2026-10-05,C001,Wash+Iron,Trousers,2,600,1200,Mobile money,Paid,Collected,2026-10-07
+O0002,2026-10-05,C002,Iron,Dress,3,400,1200,Cash,Paid,Collected,2026-10-06
+O0003,2026-10-06,C003,Wash,Bedsheet,2,1500,3000,Cash,Unpaid,Ready,
+O0004,2026-10-06,C001,Wash+Iron,Jacket,1,1500,1500,Mobile money,Paid,Collected,2026-10-08
+O0005,2026-10-07,C004,Wash+Iron,Shirt,6,500,3000,Cash,Paid,Collected,2026-10-09
+O0005,2026-10-07,C004,Wash+Iron,Skirt,2,500,1000,Cash,Paid,Collected,2026-10-09
+O0006,2026-10-08,C005,Iron,Shirt,8,300,2400,Mobile money,Unpaid,In Progress,
+O0007,2026-10-08,C002,Wash,Blanket,1,3000,3000,Cash,Paid,Ready,
+O0008,2026-10-09,C006,Wash+Iron,Trousers,3,600,1800,Mobile money,Paid,Received,
