@@ -1,0 +1,19 @@
+# Operating System Junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE & Editor Settings (VS Code, IntelliJ, etc.)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Temporary and Cache Files
+node_modules/
+dist/
+build/
+*.log
